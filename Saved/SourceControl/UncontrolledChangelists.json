@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Fonts/PixelifySans-VariableFont_wght.uasset",
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Fonts/PixelifySans-VariableFont_wght_Font.uasset",
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Fonts/PixelifySans-Bold.uasset",
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Fonts/PixelifySans-Medium.uasset",
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Fonts/PixelifySans-Regular.uasset",
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Fonts/PixelifySans-SemiBold.uasset",
+				"C:/Users/Kamil/Documents/Unreal Projects/CapyQuest/CapyQuestv2/Content/Maps/FirstLevel.umap",
 				"D:/unreal_projekty/CapyQuest/Content/Maps/FirstLevel.umap",
 				"D:/unreal_projekty/CapyQuest/Content/Blueprints/BP_Enemy.uasset",
 				"D:/unreal_projekty/CapyQuest/Content/Sprites/Enemy_Potatoe/Enemy_Potatoe_Idle.uasset",
