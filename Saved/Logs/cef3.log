@@ -1,13 +1,16 @@
-[1027/221538.365:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 45
-[1027/221538.368:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 47
-[1027/221538.368:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 49
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 51
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 53
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 55
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 57
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 59
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 61
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 63
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 65
-[1027/221538.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 67
-[1027/221716.018:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1226/233617.764:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1226/233617.786:ERROR:entry_impl.cc(1075)] No file for c1030004
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:ERROR:entry_impl.cc(1075)] No file for c1030000
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.786:ERROR:entry_impl.cc(1075)] No file for c1030002
+[1226/233617.814:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.814:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233617.860:WARNING:storage_block-inl.h(146)] Failed data load.
+[1226/233759.337:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
